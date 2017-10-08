@@ -1,2 +1,2 @@
 # Tic_Tac
-Applications based on Android
+Simple Game based on Android
